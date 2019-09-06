@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5cfd8dad15b72834cbdbde22c2e06cd9
+timeCreated: 1513551681
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chemical Reaction A (BRK)
+  fontNames:
+  - Chemical Reaction A (BRK)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
